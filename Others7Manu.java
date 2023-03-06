@@ -1,6 +1,7 @@
 /**
  *    El programa te pide el nombre del pais y al insertarlo te da su capital
  *  Cuando no se sabe la cap me la pregunta y se agrega al mapa de capitales
+ LOS COMENTARIOS DE LO QUE HICE SE ENCUENTRAN DEBAJO 
  */
 import java.util.Scanner;
 import java.util.HashMap;
